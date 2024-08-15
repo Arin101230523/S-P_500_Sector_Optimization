@@ -24,8 +24,8 @@ Ensure you have the following libraries installed:
 
 You can install these libraries using pip:
 
-```bash
-pip install openpyxl pandas yfinance matplotlib scipy scikit-learn PyPortfolioOpt cvxpy ```
+`bash
+pip install openpyxl pandas yfinance matplotlib scipy scikit-learn PyPortfolioOpt cvxpy`
 
 
 ## Instructions
